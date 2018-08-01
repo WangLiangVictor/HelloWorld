@@ -5,7 +5,7 @@ int main(void)
     while(1)
     {
         printf("hello world !\n");
-        sleep(1);
+//        sleep(1);
     }
 
     return 0;
